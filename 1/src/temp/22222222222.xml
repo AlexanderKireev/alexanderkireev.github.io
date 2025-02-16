@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <rss version="2.0">
+    <channel>
+      <description><![CDATA[Оперативная информация и аналитика на страницах проекта «Новости Mail»]]></description>
+      <generator>news.mail.ru RSS engine</generator>
+      <image>
+        <link>https://news.mail.ru/</link>
+        <title>Новости Mail</title>
+        <url>https://news.mail.ru/img/informer/news-logo.png</url>
+      </image>
+      <item>
+        <category>Экономика: Отрасли</category>
+        <description><![CDATA[В Ростовской области деятельность мясокомбината была приостановлена из-за обнаружения скотомогильника на его территории]]></description>
+        <guid isPermaLink="false">b4b858a1a209a16d963db7e1cd5038c5</guid>
+        <link>https://news.mail.ru/economics/64856847/</link>
+        <pubDate>Thu, 13 Feb 2025 11:45:33 +0300</pubDate>
+        <title><![CDATA[На 30 суток закрыли мясокомбинат из-за скотомогильника]]></title>
+      </item>
+      <item>
+        <category>Экономика: Отрасли</category>
+        <description><![CDATA[В Ростовской области в течение 2025 года "Автодор" планирует отремонтировать Аксайский мост на трассе М-4 "Дон"]]></description>
+        <guid isPermaLink="false">859d5d10d4ebbf5f5be2418948005408</guid>
+        <link>https://news.mail.ru/economics/64857176/</link>
+        <pubDate>Thu, 13 Feb 2025 11:43:57 +0300</pubDate>
+        <title><![CDATA[Трассу М-4 перекроют из-за ремонта Аксайского моста]]></title>
+      </item>
+      <item>
+        <category>Общество: Жизнь</category>
+        <description><![CDATA[В ночь на 14 февраля ученые спрогнозировали магнитную бурю на Дону]]></description>
+        <guid isPermaLink="false">9aaf6108da0bcbaa3bd51f94856c773b</guid>
+        <link>https://news.mail.ru/society/64856723/</link>
+        <pubDate>Thu, 13 Feb 2025 10:49:15 +0300</pubDate>
+        <title><![CDATA[Специалисты спрогнозировали магнитную бурю 14 февраля]]></title>
+      </item>
+      <item>
+        <category>Экономика: Финансы</category>
+        <description><![CDATA[С 2025 году жители донского региона смогут потратить деньги маткапитала на покупку дома или части дома. Об этом сообщает пресс-служба Отделения СФР по Ростовской области]]></description>
+        <guid isPermaLink="false">31e6b72ae9157a49edfba96f055dee4c</guid>
+        <link>https://news.mail.ru/economics/64856653/</link>
+        <pubDate>Thu, 13 Feb 2025 11:41:20 +0300</pubDate>
+        <title><![CDATA[Жители Дона смогут купить дом на средства маткапитала]]></title>
+      </item>
+      <item>
+        <category>Происшествия: ЧП</category>
+        <description><![CDATA[В Ростове произошел прорыв трубы с горячей водой утром 13 февраля]]></description>
+        <guid isPermaLink="false">1544340d09235e0ed4a7455808e9106c</guid>
+        <link>https://news.mail.ru/incident/64855988/</link>
+        <pubDate>Thu, 13 Feb 2025 11:36:37 +0300</pubDate>
+        <title><![CDATA[Из-за прорыва кипятком затопило центральные улицы в Ростове]]></title>
+      </item>
+      <item>
+        <category>Происшествия: ЧП</category>
+        <description><![CDATA[На улице Московской в Ростове столкнулись "скорая" и маршрутка]]></description>
+        <guid isPermaLink="false">783a159f06f9beba054060a3dd6e7f70</guid>
+        <link>https://news.mail.ru/incident/64856643/</link>
+        <pubDate>Thu, 13 Feb 2025 10:46:10 +0300</pubDate>
+        <title><![CDATA[Машина скорой помощи и маршрутка столкнулись в центре Ростова]]></title>
+      </item>
+      <item>
+        <category>Общество: Жизнь</category>
+        <description><![CDATA[Ростовская область входит в топ регионов-лидеров по смертности от загрязнённой питьевой воды]]></description>
+        <guid isPermaLink="false">47327b1e89989d880733853ff3e66966</guid>
+        <link>https://news.mail.ru/society/64854081/</link>
+        <pubDate>Thu, 13 Feb 2025 10:20:51 +0300</pubDate>
+        <title><![CDATA[На Дону жители пьют смертельно опасную воду]]></title>
+      </item>
+      <item>
+        <category>Политика: В России</category>
+        <description><![CDATA[113 квартир пострадали из-за обломков БПЛА в Ростове]]></description>
+        <guid isPermaLink="false">e808152c298ad79c567c5a9b7b575152</guid>
+        <link>https://news.mail.ru/politics/64854232/</link>
+        <pubDate>Thu, 13 Feb 2025 10:10:38 +0300</pubDate>
+        <title><![CDATA[Губернатор встретился с ростовчанами, пострадавшими от БПЛА]]></title>
+      </item>
+      <item>
+        <category>Происшествия: ЧП</category>
+        <description><![CDATA[На текущей неделе в Ростовской области произошло два пожара в частных домах из-за неисправной проводки. Об этом сообщает пресс-служба ГУ МЧС по Ростовской области]]></description>
+        <guid isPermaLink="false">b5ca8770a375b4ef5c73e116f477a1e9</guid>
+        <link>https://news.mail.ru/incident/64854814/</link>
+        <pubDate>Thu, 13 Feb 2025 09:54:29 +0300</pubDate>
+        <title><![CDATA[В Ростовской области сгорели два дома из-за неисправной проводки]]></title>
+      </item>
+      <item>
+        <category>Общество: Жизнь</category>
+        <description><![CDATA[За январь этого года в Ростовской области было зафиксировано боле 20 тыс. случаев заболевания гриппом и ОРВИ у детей]]></description>
+        <guid isPermaLink="false">ca862ddd7e44edd4fc59bb1352c0efc2</guid>
+        <link>https://news.mail.ru/society/64854212/</link>
+        <pubDate>Thu, 13 Feb 2025 09:50:00 +0300</pubDate>
+        <title><![CDATA[20 тысяч детей в Ростовской области заболели ОРВИ и гриппом]]></title>
+      </item>
+      <item>
+        <category>Общество: Жизнь</category>
+        <description><![CDATA[В Ростовской области 13 февраля наблюдается туман, на дорогах возможна гололедица. Об этом водителей предупредила Госавтоинспекция по региону]]></description>
+        <guid isPermaLink="false">c139a307accc96d63f891a649f2864c2</guid>
+        <link>https://news.mail.ru/society/64853946/</link>
+        <pubDate>Thu, 13 Feb 2025 09:52:36 +0300</pubDate>
+        <title><![CDATA[Водителей предупредили о тумане на дорогах Ростовской области]]></title>
+      </item>
+      <item>
+        <category>Экономика: Финансы</category>
+        <description><![CDATA[В Госдуме предлагают новые льготы на оплату коммунальных услуг]]></description>
+        <guid isPermaLink="false">af887f6c56f938a057b017b4b5735970</guid>
+        <link>https://news.mail.ru/economics/64852298/</link>
+        <pubDate>Thu, 13 Feb 2025 09:09:39 +0300</pubDate>
+        <title><![CDATA[Семьям с детьми предлагают скидку в 50% на услуги ЖКХ]]></title>
+      </item>
+      <item>
+        <category>Общество: Жизнь</category>
+        <description><![CDATA[В России наблюдается резкий рост стоимости пенсионных баллов. Об этом сообщили эксперты в области пенсионного обеспечения, как передает ИА DEITA.RU]]></description>
+        <guid isPermaLink="false">67922c8998866cb146ca419332a63cea</guid>
+        <link>https://news.mail.ru/society/64852239/</link>
+        <pubDate>Thu, 13 Feb 2025 04:56:30 +0300</pubDate>
+        <title><![CDATA[В России вырос размер зарплаты для получения максимальной пенсии]]></title>
+      </item>
+      <item>
+        <category>Экономика: Жилье</category>
+        <description><![CDATA[Доступность ипотеки вернется не раньше 2027 года, сообщает ИА DEITA.RU]]></description>
+        <guid isPermaLink="false">2e7ea2df13e21df4bc0d02e65af14058</guid>
+        <link>https://news.mail.ru/economics/64854083/</link>
+        <pubDate>Thu, 13 Feb 2025 08:20:06 +0300</pubDate>
+        <title><![CDATA[Озвучено, когда вернется доступная ипотека]]></title>
+      </item>
+      <item>
+        <category>Политика: В России</category>
+        <description><![CDATA[Информация об этом появилась на официальном сайте правительства Ростовской области]]></description>
+        <guid isPermaLink="false">798b935ce07faaedf08f43bb17ea2083</guid>
+        <link>https://news.mail.ru/politics/64853391/</link>
+        <pubDate>Thu, 13 Feb 2025 08:19:50 +0300</pubDate>
+        <title><![CDATA[Новым замом врио донского губернатора назначен Владимир Ревенко]]></title>
+      </item>
+      <item>
+        <category>СВО: Новости</category>
+        <description><![CDATA[Всего их 227]]></description>
+        <guid isPermaLink="false">38c899e50992f32f3cf7f53ef6ad6162</guid>
+        <link>https://news.mail.ru/svo/64853812/</link>
+        <pubDate>Thu, 13 Feb 2025 08:11:14 +0300</pubDate>
+        <title><![CDATA[Все разбитые при атаке БПЛА стёкла заменят до конца недели]]></title>
+      </item>
+      <item>
+        <category>СВО: Новости</category>
+        <description><![CDATA[Силы ПВО уничтожили БПЛА в Чертковском районе Ростовской области]]></description>
+        <guid isPermaLink="false">06dbd62ab461b704735613f640a27174</guid>
+        <link>https://news.mail.ru/svo/64853297/</link>
+        <pubDate>Thu, 13 Feb 2025 08:08:37 +0300</pubDate>
+        <title><![CDATA[Силы ПВО отразили воздушную атаку на Ростовскую область]]></title>
+      </item>
+      <item>
+        <category>Экономика: Отрасли</category>
+        <description><![CDATA[ГК "Росатом" перенесла ввод в эксплуатацию ветропарка в Морозовском на 2026 год. Об этом сообщает "Интерфакс"]]></description>
+        <guid isPermaLink="false">aefaefc6b655edd20a50263f63d2d8b2</guid>
+        <link>https://news.mail.ru/economics/64846509/</link>
+        <pubDate>Wed, 12 Feb 2025 16:46:44 +0300</pubDate>
+        <title><![CDATA[Ввод в эксплуатацию ветропарка в Ростовской области отложен]]></title>
+      </item>
+      <item>
+        <category>Экономика: Финансы</category>
+        <description><![CDATA[В Ростове городские власти рассказали, как горожане будут платить за отопление]]></description>
+        <guid isPermaLink="false">5a8437c204f4c3b5cfc1f0f0b1f7bc11</guid>
+        <link>https://news.mail.ru/economics/64846767/</link>
+        <pubDate>Wed, 12 Feb 2025 16:53:34 +0300</pubDate>
+        <title><![CDATA[Ростовчанам сказали, как им будут насчитывать плату за отопление]]></title>
+      </item>
+      <item>
+        <category>Политика: В России</category>
+        <description><![CDATA[Об этом сообщает пресс-служба правительства региона]]></description>
+        <guid isPermaLink="false">3069b5eb52f4e92b352b5bd4f7faa072</guid>
+        <link>https://news.mail.ru/politics/64845984/</link>
+        <pubDate>Wed, 12 Feb 2025 16:48:26 +0300</pubDate>
+        <title><![CDATA[Юрий Слюсарь поручил модернизировать систему-112 на Дону]]></title>
+      </item>
+      <item>
+        <category>Политика: В России</category>
+        <description><![CDATA[Президенты России и США в среду провели телефонный разговор]]></description>
+        <guid isPermaLink="false">6d286675f9f8baae95da44a191787fef</guid>
+        <link>https://news.mail.ru/politics/64858784/</link>
+        <pubDate>Thu, 13 Feb 2025 12:42:38 +0300</pubDate>
+        <title><![CDATA[Песков заявил о необходимости оперативной встречи Путина и Трампа]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/politics/64857601/</amplink>
+        <category>Политика: За рубежом</category>
+        <description><![CDATA[Директор Службы внешней разведки назвал диалог президентов России и США содержательным.]]></description>
+        <guid isPermaLink="false">331ba2d2e63f47cf1893bd101e530c6e</guid>
+        <link>https://news.mail.ru/politics/64857601/</link>
+        <pubDate>Thu, 13 Feb 2025 11:48:54 +0300</pubDate>
+        <title><![CDATA[Нарышкин рассказал о поручении Путина после разговора с Трампом]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/politics/64856241/</amplink>
+        <category>Политика: За рубежом</category>
+        <description><![CDATA[Разговор российского лидера Владимира Путина и президента США Дональда Трампа создает впечатление, что мирные переговоры об урегулировании конфликта на Украине уже начались]]></description>
+        <guid isPermaLink="false">db2840a19fa69eaacb1ee8e66b10c3bf</guid>
+        <link>https://news.mail.ru/politics/64856241/</link>
+        <pubDate>Thu, 13 Feb 2025 10:47:00 +0300</pubDate>
+        <title><![CDATA[В НАТО отреагировали на разговор Путина и Трампа]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/politics/64856791/</amplink>
+        <category>Политика: За рубежом</category>
+        <description><![CDATA[Рассказываем, какие детали беседы с российским лидером президент США раскрыл на встрече с журналистами и что сказал по поводу будущего Украины]]></description>
+        <guid isPermaLink="false">9018300afacfdd9c984b081bf59cdd23</guid>
+        <link>https://news.mail.ru/politics/64856791/</link>
+        <pubDate>Thu, 13 Feb 2025 11:49:48 +0300</pubDate>
+        <title><![CDATA[Что Трамп сказал о своих контактах с Путиным по Украине. Главное]]></title>
+      </item>
+      <item>
+        <amplink>https://vfokuse.mail.ru/amp/article/onkolog-rasskazal-kogo-budut-privivat-novoj-vakcinoj-ot-raka-64848272/</amplink>
+        <category>Общество: Жизнь</category>
+        <description><![CDATA[Первая вакцина против онкозаболеваний может появиться на российском рынке уже через 2,5 года]]></description>
+        <guid isPermaLink="false">733a51fc6d7e279f4dfd2124852488bb</guid>
+        <link>https://vfokuse.mail.ru/article/onkolog-rasskazal-kogo-budut-privivat-novoj-vakcinoj-ot-raka-64848272/</link>
+        <pubDate>Thu, 13 Feb 2025 10:46:36 +0300</pubDate>
+        <title><![CDATA[Онколог рассказал, кого будут прививать новой вакциной от рака]]></title>
+      </item>
+      <item>
+        <category>Происшествия: Терроризм</category>
+        <description><![CDATA[Исламисты из одной из стран Центральной Азии хотели взорвать железнодорожный вокзал]]></description>
+        <guid isPermaLink="false">d3b77f35b17c7fd9c16e0fc0c4cb426f</guid>
+        <link>https://news.mail.ru/incident/64857852/</link>
+        <pubDate>Thu, 13 Feb 2025 12:01:54 +0300</pubDate>
+        <title><![CDATA[ФСБ предотвратила теракт исламистов в Пскове]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/politics/64855181/</amplink>
+        <category>Политика: В России</category>
+        <description><![CDATA[Зампред Совбеза РФ Дмитрий Медведев назвал важным для мира разговор президентов России и США Владимира Путина и Дональда Трампа]]></description>
+        <guid isPermaLink="false">5ec5ed44ed0a65ce8cf9c605057d34c8</guid>
+        <link>https://news.mail.ru/politics/64855181/</link>
+        <pubDate>Thu, 13 Feb 2025 09:57:48 +0300</pubDate>
+        <title><![CDATA[Медведев прокомментировал разговор Путина и Трампа]]></title>
+      </item>
+      <item>
+        <amplink>https://finance.mail.ru/amp/2025-02-13/stalo-izvestno-kak-sekonomit-na-oplate-zhku-do-5-tysyach-rublej-64856225/</amplink>
+        <category>Экономика: Жилье</category>
+        <description><![CDATA[Если следить за исправностью сантехники, уменьшить потребление электроэнергии и быть информационно подкованным в области своих прав, можно заметно сократить расходы на оплату ЖХУ, сообщила Юлия Федорова.]]></description>
+        <guid isPermaLink="false">62083c7be3540c5a8e643174db3fa59a</guid>
+        <link>https://finance.mail.ru/2025-02-13/stalo-izvestno-kak-sekonomit-na-oplate-zhku-do-5-tysyach-rublej-64856225/</link>
+        <pubDate>Thu, 13 Feb 2025 11:40:07 +0300</pubDate>
+        <title><![CDATA[Названы способы, как сэкономить на оплате ЖКУ до 5 тысяч рублей]]></title>
+      </item>
+      <item>
+        <amplink>https://finance.mail.ru/amp/2025-02-13/rossiyanam-obyasnili-kuda-investirovat-chtoby-spasti-dengi-v-krizis-64857721/</amplink>
+        <category>Экономика: Финансы</category>
+        <description><![CDATA[Сохранить деньги в кризисных условиях помогут инструменты низкого риска, сообщил доцент финтеха РЭУ им. Г. В. Плеханова Олег Скапенкер.]]></description>
+        <guid isPermaLink="false">0606fe77a86131f1343bd0353c829842</guid>
+        <link>https://finance.mail.ru/2025-02-13/rossiyanam-obyasnili-kuda-investirovat-chtoby-spasti-dengi-v-krizis-64857721/</link>
+        <pubDate>Thu, 13 Feb 2025 12:27:30 +0300</pubDate>
+        <title><![CDATA[Финансист объяснил, как спасти деньги в кризис]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/politics/64858419/</amplink>
+        <category>Политика: За рубежом</category>
+        <description><![CDATA[Бывшему главе государству запрещается совершать различные торговые операции и выводить деньги за рубеж]]></description>
+        <guid isPermaLink="false">25376fd2779ad01dd091b591068301c2</guid>
+        <link>https://news.mail.ru/politics/64858419/</link>
+        <pubDate>Thu, 13 Feb 2025 12:28:07 +0300</pubDate>
+        <title><![CDATA[На Украине официально ввели санкции против Порошенко]]></title>
+      </item>
+      <item>
+        <category>Спорт: Зарубежный</category>
+        <description><![CDATA[Арбитр Майк Оливер посчитал, что недовольный его работой в дерби с «Эвертоном» тренер «Ливерпуля» Арне Слот пожал ему руку «в саркастической и агрессивной манере»]]></description>
+        <guid isPermaLink="false">7c8f70b15ae18436b72e7806a2da2ee0</guid>
+        <link>https://sportmail.ru/article/football-foreign/64855315/</link>
+        <pubDate>Thu, 13 Feb 2025 10:04:47 +0300</pubDate>
+        <title><![CDATA[Судья удалил тренера «Ливерпуля» за рукопожатие: видео]]></title>
+      </item>
+      <item>
+        <category>Политика: За рубежом</category>
+        <description><![CDATA[На фоне договоренности Владимира Путина и Дональда Трампа о начале мирных переговоров по урегулированию конфликта с Украиной становятся видны очертания возможных сценариев]]></description>
+        <guid isPermaLink="false">4d1f0e01d1266dd18e3544cc751d9f32</guid>
+        <link>https://news.mail.ru/politics/64854660/</link>
+        <pubDate>Thu, 13 Feb 2025 09:29:53 +0300</pubDate>
+        <title><![CDATA[СМИ описали «кошмарный» для Киева вариант завершения конфликта]]></title>
+      </item>
+      <item>
+        <amplink>https://finance.mail.ru/amp/2025-02-13/kak-izmenilis-stavki-po-vkladam-v-top-6-krupnejshih-bankov-pered-zasedaniem-cb-64845913/</amplink>
+        <category>Экономика: Финансы</category>
+        <description><![CDATA[Банк России в пятницу, 14 февраля, проведет заседание по ключевой ставке. Кредитные организации уже начали реагировать на возможное решение ЦБ]]></description>
+        <guid isPermaLink="false">2142d833b814960062244b232d1b9a55</guid>
+        <link>https://finance.mail.ru/2025-02-13/kak-izmenilis-stavki-po-vkladam-v-top-6-krupnejshih-bankov-pered-zasedaniem-cb-64845913/</link>
+        <pubDate>Thu, 13 Feb 2025 08:00:51 +0300</pubDate>
+        <title><![CDATA[Как изменились ставки по вкладам в банках перед заседанием ЦБ]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/svo/64853647/</amplink>
+        <category>СВО: Новости</category>
+        <description><![CDATA[Над Брянской областью уничтожили 37 дронов, по 12 над Курской и Липецкой, девять над Тверской, по три над Белгородской, Калужской, Смоленской и Воронежской областями, а также один над Ростовской областью]]></description>
+        <guid isPermaLink="false">7bd181cdded55c79d4e917efaab4f55b</guid>
+        <link>https://news.mail.ru/svo/64853647/</link>
+        <pubDate>Thu, 13 Feb 2025 07:46:54 +0300</pubDate>
+        <title><![CDATA[За ночь сбили 83 беспилотника над девятью российскими регионами]]></title>
+      </item>
+      <item>
+        <amplink>https://vfokuse.mail.ru/amp/article/v-rossii-pereputali-dvuh-dantesov-64858226/</amplink>
+        <category>Общество: Жизнь</category>
+        <description><![CDATA[Петербургская юристка рассказала, как два года пытается исправить имя убийцы Пушкина в официальных документах.]]></description>
+        <guid isPermaLink="false">34b8d66a83205e9ff93aa01af93d551e</guid>
+        <link>https://vfokuse.mail.ru/article/v-rossii-pereputali-dvuh-dantesov-64858226/</link>
+        <pubDate>Thu, 13 Feb 2025 12:08:58 +0300</pubDate>
+        <title><![CDATA[В Санкт-Петербурге перепутали двух Дантесов]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/incident/64856779/</amplink>
+        <category>Происшествия: ЧП</category>
+        <description><![CDATA[Погибли два человека]]></description>
+        <guid isPermaLink="false">6be1a83492daaa3e55ce5dec1e54c946</guid>
+        <link>https://news.mail.ru/incident/64856779/</link>
+        <pubDate>Thu, 13 Feb 2025 11:19:15 +0300</pubDate>
+        <title><![CDATA[Что известно об обрушении в шахте в Пермском крае]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/incident/64852603/</amplink>
+        <category>Происшествия: Криминал</category>
+        <description><![CDATA[Командиру воздушного судна гражданской авиации, задержанному в Краснодаре по подозрению в государственной измене, продлили арест. Об этом сообщает РИА Новости]]></description>
+        <guid isPermaLink="false">f9d8458628f1de8d7f3579e10db0e234</guid>
+        <link>https://news.mail.ru/incident/64852603/</link>
+        <pubDate>Thu, 13 Feb 2025 05:20:27 +0300</pubDate>
+        <title><![CDATA[Задержанному по подозрению в госизмене летчику продлили арест]]></title>
+      </item>
+      <item>
+        <amplink>https://news.mail.ru/amp/politics/64852891/</amplink>
+        <category>Политика: За рубежом</category>
+        <description><![CDATA[В Европе опасались переговоров президентов США и России Дональда Трампа и Владимира Путина. Об этом написало издание Politico]]></description>
+        <guid isPermaLink="false">58ba71100361f0f2e9fc8815b08aa872</guid>
+        <link>https://news.mail.ru/politics/64852891/</link>
+        <pubDate>Thu, 13 Feb 2025 07:21:16 +0300</pubDate>
+        <title><![CDATA[Politico: Европа давно боялась переговоров Трампа и Путина]]></title>
+      </item>
+      <item>
+        <category>Экономика: Финансы</category>
+        <description><![CDATA[Неурожай голландских луковиц, из которых выращивают тюльпаны в России, привел к удорожанию и ухудшению качества цветов]]></description>
+        <guid isPermaLink="false">38ea202ceb1c2fe8c25d628a53c176be</guid>
+        <link>https://finance.mail.ru/2025-02-13/ceny-tyulpanov-priblizilis-k-rozam-64854395/</link>
+        <pubDate>Thu, 13 Feb 2025 08:56:33 +0300</pubDate>
+        <title><![CDATA[Цены тюльпанов приблизились к розам]]></title>
+      </item>
+      <item>
+        <category>Политика: В России</category>
+        <description><![CDATA[Москва защитит свои интересы в Балтийском регионе, несмотря на попытки НАТО превратить Балтийское море в свое «внутреннее озеро»]]></description>
+        <guid isPermaLink="false">1322be52cb8a1c99cfb5da3bed2e7623</guid>
+        <link>https://news.mail.ru/politics/64854269/</link>
+        <pubDate>Thu, 13 Feb 2025 08:52:07 +0300</pubDate>
+        <title><![CDATA[МИД: Москва защитит свои интересы в Балтийском регионе]]></title>
+      </item>
+      <language>ru</language>
+      <lastBuildDate>Thu, 13 Feb 2025 12:42:38 +0300</lastBuildDate>
+      <link>https://news.mail.ru/</link>
+      <managingEditor>info@news.mail.ru</managingEditor>
+      <title><![CDATA[Новости Mail: Главные новости]]></title>
+      <webMaster>info@news.mail.ru</webMaster>
+    </channel>
+  </rss>
