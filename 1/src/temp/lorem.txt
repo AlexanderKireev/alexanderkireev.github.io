@@ -1,0 +1,27 @@
+// const initList = [
+//   {
+//     id: 1,
+//     // title: 'Lorem ipsum 2024-07-10T13:09:00Z',
+//     title: 'first',
+//     link: 'http://example.com/test/1720616940',
+//     description: 'Exercitation amet quis aute id eur exercitation culpa pariatur ex tempor id.',
+//   },
+//   {
+//     id: 2,
+//     title: 'Lorem ipsum 2024-07-10T13:10:00Z',
+//     link: 'http://example.com/test/1720617000',
+//     description: 'Proident id qui ea elit laboris iam aliqua incididunt ad consequat proident.',
+//   },
+//   {
+//     id: 3,
+//     title: 'Lorem ipsum 2024-07-10T13:11:00Z',
+//     link: 'http://example.com/test/1720617060',
+//     description: 'Ipsum irure non eiusmod sit aute anim Lorem commodo cillum laborum.',
+//   },
+//   {
+//     id: 4,
+//     title: 'Lorem ipsum 2024-07-10T13:12:00Z',
+//     link: 'http://example.com/test/1720617120',
+//     description: 'Est ex do aliquip ea pariatur labore commodo.',
+//   },
+// ];
