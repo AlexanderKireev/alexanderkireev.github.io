@@ -39,6 +39,7 @@ body {
   background: white;
   border: 1px solid #d3d7da;
   border-radius: 20px;
+  min-height: 960px;
 }
 
 
@@ -142,7 +143,6 @@ body {
 
 
 
-
 .todotext {
   position: absolute;
   left: 90px;
@@ -155,6 +155,11 @@ body {
   max-height: 36px;
   color: #515151;
 }
+
+.visited {
+  color: #a3a3a3;
+}
+
 
 .todo-list > li > a {
   text-decoration: none;
@@ -401,6 +406,17 @@ img.run {
   }
 }
 /* ------------------------------ Работа с мобильными устройствами ---------------------------- */
+@media screen {
+  a:hover > .todo-logo {
+    /* transform: translate(-18px, -6px) scale(1.7, 1.5); */
+    /* background-color: white; */
+    transform: translate(0, 0);
+    width: 56px;
+    height: 42px;;
+    /* transition: .2s; */
+  } 
+}
+
 @media screen and (max-width: 1440px) {
   .boxes {
     padding-right: 0.5rem;
@@ -428,17 +444,17 @@ img.run {
   }
 
   .todo-logo {
-    left: 0;
-    margin-right: 0px;
-    border-radius: 0;
+    left: 10px;
+    /* margin-right: 20px; */
+    /* border-radius: 0; */
     /* box-shadow: 1px 1px 5px 1px #818181; */
   }
 
   .todotext {
     /* position: absolute; */
-    left: 70px;
+    left: 74px;
     /* text-overflow: ellipsis; */
-    /* margin-right: 30px; */
+    margin-right: 10px;
     /* white-space: nowrap; */
     /* display: -webkit-box; */
     /* -webkit-line-clamp: 2; */
