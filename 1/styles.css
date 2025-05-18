@@ -651,7 +651,7 @@ img.run {
 
 
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 640px) {
   .menu {
     width: 0;
     /* box-shadow: 0; */
