@@ -635,6 +635,23 @@ img.run {
 
 @media screen and (max-width: 900px) {
   .menu {
+    width: 400px;
+  }
+
+  .boxes {
+    padding-right: 0;
+    padding-left: calc(400px + 0.1rem);
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 0.1rem;
+  }
+}
+
+
+
+
+@media screen and (max-width: 680px) {
+  .menu {
     width: 0;
     /* box-shadow: 0; */
     /* box-shadow: 0 0 0 0 #d3d7da; */
@@ -698,6 +715,16 @@ img.run {
     /* max-height: 60px; */
   }
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
