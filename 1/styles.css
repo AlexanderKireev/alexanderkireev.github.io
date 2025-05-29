@@ -315,21 +315,19 @@ p {
   justify-content: center;
 }
 
-@media (hover: hover) {
-  .todo:hover > .todo-logo > .logo {
-    transform: scale(0.84, 1);
-    transition: all 0.2s;
-  }
+.todo:hover > .todo-logo > .logo {
+  transform: scale(0.84, 1);
+  transition: all 0.2s;
+}
 
-  .todo:hover > .todo-logo.img-include > .spinner {
-    transform: scale(0.65, 0.75);
-    transition: 0.2s;
-  }
+.todo:hover > .todo-logo.img-include > .spinner {
+  transform: scale(0.65, 0.75);
+  transition: 0.2s;
+}
 
-  .todo:hover > .todo-logo.img-include {
-    transform: translate(-18px, -4px) scale(1.7, 1.42);
-    transition: all 0.2s;
-  }
+.todo:hover > .todo-logo.img-include {
+  transform: translate(-18px, -4px) scale(1.7, 1.42);
+  transition: all 0.2s;
 }
 
 .todo:hover > .todo-text {
@@ -474,13 +472,72 @@ img.run {
   }
 }
 
-@media screen and (orientation: portrait) and (max-width: 1080px) {
+@media screen and (max-width: 1280px) {
+  .boxes {
+    padding: 0.1rem 0.1rem 0.1rem calc(50% + 0.1rem);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 0.1rem;
+    max-height: 100vh;
+    overflow: scroll;
+  }
+
+  .menu {
+    /* position: fixed; */
+    /* width: 600px; */
+    width: 50%;
+    height: 100vh;
+    /* left: 0; */
+    /* top: 100px; */
+    /* margin-top: 100px; */
+    /* box-shadow: 1px 1px 10px 2px #d3d7da; */
+    /* background-color: white; */
+    /* border: 1px solid #d3d7da; */
+    /* padding: 0; */
+    /* z-index: 0; */
+    /* padding: 0px 0px 20px 30px; */
+  
+    /* overflow-y: scroll; */
+  }
+  
+
+
+  .todo:hover > .todo-logo > .logo {
+    transform: scale(1, 1);
+  }
+  
+  .todo:hover > .todo-logo.img-include > .spinner {
+    transform: scale(1, 1);
+  }
+  
+  .todo:hover > .todo-logo.img-include {
+    transform: translate(0, 0) scale(1, 1);
+  }
+}
+
+@media screen and (orientation: portrait) {
+  .close-button {
+    cursor: pointer;;
+  }
+  
   .menu {
     width: 100%;
-    height: 100%;
+    height: 100vh;
     z-index: var(--z-index1, -1);
   }
 
+  .todo:hover > .todo-logo > .logo {
+    transform: scale(1, 1);
+  }
+  
+  .todo:hover > .todo-logo.img-include > .spinner {
+    transform: scale(1, 1);
+  }
+  
+  .todo:hover > .todo-logo.img-include {
+    transform: translate(0, 0) scale(1, 1);
+  }
   /* .rss-logo {
     max-width: 2px;
 
@@ -500,6 +557,7 @@ img.run {
     max-height: 100vh;
     overflow: scroll;
   }
+
   .menu-content {
     width: 100%;
     padding: 0px 30px 10px 30px;
