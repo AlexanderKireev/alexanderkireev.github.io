@@ -41,6 +41,8 @@ body {
   gap: 0.5rem;
   min-height: 100vh;
   width: 100%;
+  max-height: 100vh;
+  overflow: scroll;
 }
 
 .box {
@@ -51,11 +53,84 @@ body {
   min-height: 960px;
 }
 
+.menu > header {
+  /* height: 200px; */
+  /* position: absolute; */
+  /* width: 540px; */
+  /* width: 100%; */
+  /* height: 100vh; */
+  /* left: 32px; */
+  /* top: 0; */
+  /* text-decoration: none; */
+  /* position: relative; */
+  margin: 0px 28px 0px 28px;
+  padding: 10px 0px 3px 0px;
+  display: flex;
+  align-items: end;
+  /* align-items: baseline; */
+  justify-content: space-between;
+  border-bottom: 1px solid #515151;
+  /* width: 100%; */
+  /* font-size: x-large; */
+  /* color: #515151; */
+  /* background-color: black; */
+  /* flex-direction: row; */
+}
+
+
+
+.menu-title {
+  display: flex;
+  /* position: relative; */
+  flex-direction: row;
+  /* width: 100%;
+  height: 100%; */
+  /* align-items: baseline; */
+  align-items: end;
+  /* box-sizing: border-box; */
+  /* max-width: 100%; */
+  /* background-color: red; */
+}
+
+
+/* .archive-logo {
+  max-height: 26px;
+  /* justify-content: center; */
+/* } */
+
+
 .rss-logo {
-  max-width: 40px;
-  min-width: 40px;
+
+  /* max-height: 26px; */
+  max-width: 34px;
+
+
+  /* width: 50%; */
+  /* background-color: black; */
+
+
+  /* flex-basis: auto; */
+  /* max-width: 40px;
+  min-width: 40px; */
   /* max-height: 40px; */
-  margin-right: 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+
+
+
+.rss-title {
+
+  font-size: x-large;
+  /* align-items: end; */
+  /* max-width: 100%; */
+  /* flex-basis: auto; */
+  /* flex-basis: auto; */
+  /* max-width: 40px;
+  min-width: 40px; */
+  /* max-height: 40px; */
+  /* margin-right: 10px; */
 }
 
 .menu-content {
@@ -73,30 +148,6 @@ body {
   animation: show-logo 0.3s ease-in-out forwards;
 }
 
-.menu > header {
-  /* position: absolute; */
-  /* width: 540px; */
-  /* width: 100%; */
-  /* height: 100vh; */
-  /* left: 32px; */
-  /* top: 0; */
-  /* text-decoration: none; */
-  margin: 0px 28px 0px 28px;
-  padding: 10px 0px 3px 0px;
-  display: flex;
-  align-items: end;
-  justify-content: space-between;
-  border-bottom: 1px solid #515151;
-  font-size: x-large;
-  /* color: #515151; */
-  /* background-color: black; */
-  /* flex-direction: row; */
-}
-
-/* .close-button { */
-/* color: #515151; */
-
-/* } */
 
 /* .menu-title { */
 /* font-size: x-large; */
@@ -106,12 +157,6 @@ body {
 
 /* } */
 
-.title {
-  display: flex;
-  flex-direction: row;
-  /* max-width: 100%; */
-  /* background-color: red; */
-}
 
 .box > header {
   margin: 14px 20px 5px 20px;
@@ -474,35 +519,45 @@ img.run {
 }
 
 @media screen and (max-width: 1280px) {
+  .todo-text {
+    left: 76px;
+    margin-right: 10px;
+  }
+
+  .todo-logo {
+    left: 10px;
+  }
+  
+  .rss-logo {
+    max-width: 27px;
+    margin-bottom: 4px;
+  }
+  
+  .rss-title {
+    font-size: large;
+  }
+
   .boxes {
     padding: 0.1rem 0.1rem 0.1rem calc(50% + 0.1rem);
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
     gap: 0.1rem;
-    max-height: 100vh;
-    overflow: scroll;
+    /* max-height: 100vh;
+    overflow: scroll; */
   }
 
   .menu {
-    /* position: fixed; */
-    /* width: 600px; */
     width: 50%;
-    /* height: 100vh; */
-    /* left: 0; */
-    /* top: 100px; */
-    /* margin-top: 100px; */
-    /* box-shadow: 1px 1px 10px 2px #d3d7da; */
-    /* background-color: white; */
-    /* border: 1px solid #d3d7da; */
-    /* padding: 0; */
-    /* z-index: 0; */
-    /* padding: 0px 0px 20px 30px; */
-  
-    /* overflow-y: scroll; */
+  }
+
+  .menu-content {
+    padding: 0px 10px 10px 10px;
   }
   
-
+  .menu > header {
+    margin: 0px 16px 0px 10px;
+  }
 
   .todo:hover > .todo-logo > .logo {
     transform: scale(1, 1);
@@ -520,7 +575,46 @@ img.run {
 @media screen and (orientation: portrait) {
   .close-button {
     cursor: pointer;;
+    color: #515151;
+    font-size: large;
   }
+
+
+    
+  .rss-logo {
+
+    /* max-height: 26px; */
+    max-width: 20px;
+  
+  
+    /* width: 50%; */
+    /* background-color: black; */
+  
+  
+    /* flex-basis: auto; */
+    /* max-width: 40px;
+    min-width: 40px; */
+    /* max-height: 40px; */
+    /* margin-right: 5px; */
+    /* margin-bottom: 4px; */
+  }
+  
+  
+  
+  
+  /* .rss-title { */
+  
+    /* font-size: large; */
+    /* align-items: end; */
+    /* max-width: 100%; */
+    /* flex-basis: auto; */
+    /* flex-basis: auto; */
+    /* max-width: 40px;
+    min-width: 40px; */
+    /* max-height: 40px; */
+    /* margin-right: 10px; */
+  /* } */
+  
   
   .menu {
     width: 100%;
@@ -528,7 +622,7 @@ img.run {
     z-index: var(--z-index1, -1);
   }
 
-  .todo:hover > .todo-logo > .logo {
+  /* .todo:hover > .todo-logo > .logo {
     transform: scale(1, 1);
   }
   
@@ -538,7 +632,7 @@ img.run {
   
   .todo:hover > .todo-logo.img-include {
     transform: translate(0, 0) scale(1, 1);
-  }
+  } */
   /* .rss-logo {
     max-width: 2px;
 
@@ -554,17 +648,17 @@ img.run {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
-    gap: 0.1rem;
+    /* gap: 0.1rem;
     max-height: 100vh;
-    overflow: scroll;
+    overflow: scroll; */
   }
 
-  .menu-content {
-    width: 100%;
-    padding: 0px 10px 10px 10px;
-  }
+  /* .menu-content { */
+    /* width: 100%; */
+    /* padding: 0px 10px 10px 10px; */
+  /* } */
   
-  .menu > header {
+  /* .menu > header { */
     /* position: absolute; */
     /* width: 540px; */
     /* width: 100%; */
@@ -572,22 +666,31 @@ img.run {
     /* left: 32px; */
     /* top: 0; */
     /* text-decoration: none; */
-    margin: 0px 16px 0px 10px;
+    /* margin: 0px 16px 0px 10px; */
     /* padding: 10px 0px 3px 0px; */
     /* display: flex; */
     /* align-items: end; */
     /* justify-content: space-between; */
     /* border-bottom: 1px solid #515151; */
-    font-size: large;
+    /* font-size: large; */
     /* color: #515151; */
     /* background-color: black; */
     /* flex-direction: row; */
-  }
+  /* } */
 
-  .rss-logo {
-    max-width: 20px;
+  /* .rss-logo { */
+    /* max-width: 20px; */
     /* min-width: 10px; */
-    max-height: 20px;
+    /* max-height: 20px; */
     /* margin-right: 10px; */
-  }
+  /* } */
+
+  /* .rss-logo { */
+    /* max-width: 10%; */
+    /* flex-basis: auto; */
+    /* max-width: 40px;
+    min-width: 40px; */
+    /* max-height: 40px; */
+    /* margin-right: 10px; */
+  /* } */
 }
