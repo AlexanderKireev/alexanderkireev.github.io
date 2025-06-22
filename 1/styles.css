@@ -341,20 +341,24 @@ p {
   z-index: 2;
   left: -7px;
   top: -1px;
-  animation: show-logo 1s ease-in-out forwards;
+  animation: show-logo 2s ease-in-out forwards;
   cursor: pointer;
+  color: white
 }
 
 .box-spinner {
-  height: 90%;
+  /* height: 10%; */
   display: flex;
-  align-items: center;
-  justify-content: center;
+  margin: 15px 0 0 25px;
+  /* align-items: center; */
+  align-items: start;
+  /* justify-content: center; */
+  justify-content: start;
 }
 
 .spinner {
   z-index: 1;
-  width: 100%;
+  /* width: 100%; */
   height: 100%;
   display: flex;
   align-items: center;
@@ -363,9 +367,10 @@ p {
 
 .todo:hover > .todo-logo > .logo {
   transform: scale(0.84, 1);
-  transition: all 0.2s;
+  transition: 0.2s;
 }
 
+/* не пойму зачем этот элемент?????? */
 .todo:hover > .todo-logo.img-include > .spinner {
   transform: scale(0.65, 0.75);
   transition: 0.2s;
@@ -619,7 +624,7 @@ img.run {
   .menu {
     width: 100%;
     /* height: 100vh; */
-    z-index: var(--z-index1, -1);
+    z-index: var(--z-index-value, -1);
   }
 
   /* .todo:hover > .todo-logo > .logo {
