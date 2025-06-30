@@ -195,6 +195,7 @@ a {
   /* justify-content: space-between; */
   /* list-style: none; */
   align-items: end;
+  cursor: pointer;
   /* background-color: black; */
   /* background-color: yellow; */
 
@@ -226,9 +227,25 @@ a {
 /* align-items: top; */
 /* } */
 
-.archive-logo {
+.archive-logo,
+.archive-logo-arrow {
   max-height: 26px;
   /* justify-content: center; */
+}
+
+.archive:hover > li > .archive-logo {
+  transform: translate(-8px, -4px) scale(1.4, 1.4);
+  transition: 0.2s;
+}
+
+.archive:hover > li > .archive-logo-arrow {
+  transform: translate(-8px, -4px) scale(1.4, 1.4);
+  transition: 0.2s;
+}
+
+.archive:hover > .archive-title {
+  transform: translate(-14px, 0px);
+  transition: 0.2s;
 }
 
 .archive-title {
@@ -348,7 +365,7 @@ p {
   position: absolute;
   width: 70px;
   height: 46px;
-  z-index: 2;
+  /* z-index: 2; */
   left: -7px;
   top: -1px;
   animation: show-logo 2s ease-in-out forwards;
@@ -381,10 +398,10 @@ p {
 }
 
 /* не пойму зачем этот элемент?????? */
-.todo:hover > .todo-logo.img-include > .spinner {
+/* .todo:hover > .todo-logo.img-include > .spinner {
   transform: scale(0.65, 0.75);
   transition: 0.2s;
-}
+} */
 
 .todo:hover > .todo-logo.img-include {
   transform: translate(-18px, -4px) scale(1.7, 1.42);
@@ -428,7 +445,7 @@ li.add-to-archive {
 }
 
 li.hide-from-archive {
-  animation: fade-out 8s ease-in-out forwards, height-down 0.7s ease-out forwards;
+  animation: fade-out 7.5s ease-in-out forwards, height-down 0.7s ease-out forwards;
   animation-delay: 0s, 8s;
 }
 
