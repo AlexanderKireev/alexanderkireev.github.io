@@ -5,7 +5,7 @@
 
 #### Начал изучение языка Javascript в сентябре 2023 года в рамках освоения профессии Фронтенд-разработчика на [Hexlet](https://ru.hexlet.io/)
 
-#### В настоящее время продолжаю самостоятельное изучение языков. Владею технологиями: Linux (Ubuntu), Git/Github/Gitlab, Node.js, JavaSript, React, React Hooks, React Bootstrap, Redux, Redux-Toolkit, React Router, HTML/CSS, HTTP/REST API,  SQL (PostgreSQL), TypeScript
+#### В настоящее время продолжаю самостоятельное изучение языков. Владею технологиями: Linux (Ubuntu), Git/Github/Gitlab, Node.js, JavaScript, React, React Hooks, React Bootstrap, Redux, Redux-Toolkit, React Router, HTML/CSS, HTTP/REST API,  SQL (PostgreSQL), TypeScript
 
 
 #### Участие в опенсорс проекте [runit](https://github.com/hexlet-rus/runit/pull/567)
