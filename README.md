@@ -30,7 +30,7 @@
 
 ## Самостоятельные проекты:
 
-**[RSS-парсер](https://github.com/AlexanderKireev/MyRSSNews)** новостей России и региона с анимацией и просмотром новости
+**[RSS агрегатор](https://github.com/AlexanderKireev/MyRSSNews)** главных новостей России и региона на одной странице (с просмотром новости)
 
 **[StartPage](https://github.com/AlexanderKireev/StartPage)** Настраиваемая вкладка браузера
 
