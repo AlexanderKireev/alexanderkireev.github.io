@@ -5,18 +5,12 @@
 
 #### Начал изучение языка Javascript в сентябре 2023 года в рамках освоения профессии Фронтенд-разработчика на [Hexlet](https://ru.hexlet.io/)
 
-#### В настоящее время продолжаю самостоятельное изучение языков. Владею технологиями: Linux (Ubuntu), Git/Github/Gitlab, Node.js, JavaScript, React, React Hooks, React Bootstrap, Redux, Redux-Toolkit, React Router, HTML/CSS, HTTP/REST API,  SQL (PostgreSQL), TypeScript
+#### Владею технологиями: Linux (Ubuntu), Git/Github/Gitlab, Node.js, JavaScript, React, React Hooks, React Bootstrap, Redux, Redux-Toolkit, React Router, HTML/CSS, HTTP/REST API,  SQL (PostgreSQL), TypeScript
 
 
 #### Участие в опенсорс проекте [runit](https://github.com/hexlet-rus/runit/pull/567)
 
 #### Участие в 76 играх на [Codebattle](https://codebattle.hexlet.io/users/8780) от Hexlet (47 – Java, 29 – Javascript), из них –  63 победы
-
-## Самостоятельные проекты:
-
-**[RSS-парсер](https://github.com/AlexanderKireev/MyRSSNews)** новостей России и региона с анимацией и просмотром новости
-
-**[StartPage](https://github.com/AlexanderKireev/StartPage)** Настраиваемая вкладка браузера
 
 ## За время обучения на Hexlet (август 2023 – сентябрь 2024) выполнил следующие проекты (сначала более новые):
 
@@ -33,6 +27,13 @@
 
 
 **[Проект "Игры разума" ("Brain Games")](https://github.com/AlexanderKireev/frontend-project-44)** – набор из пяти консольных игр. В рамках проекта освоил навыки работы с работой в ОС Ubuntu, настройкой окружения, работой в командной строке, Node.js (npm, npx), работой с Gradle, Git, использованием Makefile, Eslint, CodeClimate, настройкой CI (Github actions), а также работой в редакторе Visual Studio Code.
+
+## Самостоятельные проекты:
+
+**[RSS-парсер](https://github.com/AlexanderKireev/MyRSSNews)** новостей России и региона с анимацией и просмотром новости
+
+**[StartPage](https://github.com/AlexanderKireev/StartPage)** Настраиваемая вкладка браузера
+
 
 #### Ранее (март 2022 – май 2023) проходил изучение языка Java в рамках освоения профессии Java-разработчика на Hexlet.
 
