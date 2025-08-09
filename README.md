@@ -5,10 +5,7 @@
 
 #### Начал изучение языка Javascript в сентябре 2023 года в рамках освоения профессии Фронтенд-разработчика на [Hexlet](https://ru.hexlet.io/)
 
-#### Владею технологиями: Linux (Ubuntu), Git/Github/Gitlab, Node.js, JavaScript, React, React Hooks, React Bootstrap, Redux, Redux-Toolkit, React Router, HTML/CSS, HTTP/REST API,  SQL (PostgreSQL), TypeScript
-
-
-#### Участие в опенсорс проекте [runit](https://github.com/hexlet-rus/runit/pull/567)
+#### Владею технологиями: Linux (Ubuntu), Git/Github/Gitlab, Node.js, JavaScript, React, React Hooks, React Bootstrap, Redux, Redux-Toolkit, React Router, HTML/CSS, HTTP/REST API
 
 #### Участие в 76 играх на [Codebattle](https://codebattle.hexlet.io/users/8780) от Hexlet (47 – Java, 29 – Javascript), из них –  63 победы
 
