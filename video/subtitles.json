@@ -1,0 +1,12 @@
+[
+  { "id": 1, "start": 0.45, "end": 1.47, "text": "What are you doing, Pooh?", "speaker": "Пятачок" },
+  { "id": 2, "start": 1.7, "end": 3.19, "text": "Shh!", "speaker": "Винни-Пух" },
+  { "id": 3, "start": 3.2, "end": 5.24, "text": "Tracking something.", "speaker": "Винни-Пух" },
+  { "id": 4, "start": 5.25, "end": 6.74, "text": "Tracking what?", "speaker": "Пятачок" },
+  { "id": 5, "start": 6.75, "end": 10, "text": "Well, that's what I asked myself, Piglet. What?", "speaker": "Винни-Пух" },
+  { "id": 6, "start": 13.1, "end": 15.59, "text": "And what do you think you'll answer yourself?", "speaker": "Пятачок" },
+  { "id": 7, "start": 15.6, "end": 18.74, "text": "I shall have to wait until I catch up with it.", "speaker": "Винни-Пух" },
+  { "id": 8, "start": 18.75, "end": 21.39, "text": "Pooh, for a bear of very little brain...", "speaker": "Пятачок" },
+  { "id": 9, "start": 21.4, "end": 22.94, "text": "you sure are a smart one!", "speaker": "Пятачок" },
+  { "id": 10, "start": 22.95, "end": 24.5, "text": "Thank you, Piglet.", "speaker": "Винни-Пух" }
+]
