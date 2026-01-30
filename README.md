@@ -1,15 +1,17 @@
 # Александр Киреев. Резюме
 
-## Frontend разработчик ищет работу на позицию Javascript Developer Junior (React.js) на полный рабочий день в Ростове-на-Дону, либо удаленно. Готов к стажировке.
+## Frontend разработчик ищет работу на позицию Javascript Developer (React Next.js) на полный рабочий день в Ростове-на-Дону, либо удаленно. Готов к стажировке.
 
 
 #### Начал изучение языка Javascript в сентябре 2023 года в рамках освоения профессии Фронтенд-разработчика на [Hexlet](https://ru.hexlet.io/)
 
-#### Владею технологиями: Linux (Ubuntu), Git/Github/Gitlab, Node.js, JavaScript, React, React Hooks, React Bootstrap, Redux, Redux-Toolkit, React Router, HTML/CSS, HTTP/REST API
+#### Владею технологиями: JavaScript, React, Next.js, React Hooks, React Bootstrap, Tailwindcss, Zustand, Redux, Zod, Yup, i18next, HTML/CSS, HTTP/REST API, Linux (Ubuntu), Git/Github/Gitlab
 
-#### Участие в 76 играх на [Codebattle](https://codebattle.hexlet.io/users/8780) от Hexlet (47 – Java, 29 – Javascript), из них –  63 победы
+#### В настоящее время (с октября 2025) прохожу стажировку в коммерческом проекте Tivaliclub.com. Есть положительный отзыв-рекомендация от руководителя (возможен его ответ в тг). Занимаюсь разработкой страниц для загрузки и воспроизведения видео с интеграцией ИИ для создания субтитров к видео на разных языках. Динамической сменой и индивидуальной настройкой субтитров (для изучения языков). Разработкой видео-плейлистов с фильтрацией, сортировкой, lazy-пагинацией. Адаптивный дизайн страниц.
 
-## За время обучения на Hexlet (август 2023 – сентябрь 2024) выполнил следующие проекты (сначала более новые):
+#### Из собственных проектов. Сейчас начал работу над магазином ювелирных изделий. [GitHub: https://github.com/AlexanderKireev/jewelry-shop](https://github.com/AlexanderKireev/jewelry-shop). [Ссылка на сайт](https://jewelry-shop-lemon.vercel.app/).
+
+## Более ранние проекты. За время обучения на Hexlet (август 2023 – сентябрь 2024) выполнял следующие проекты (сначала более новые):
 
 **[Проект "Чат" ("Chat")](https://github.com/AlexanderKireev/frontend-project-12)** – одностраничный (SPA) онлайн чат с возможностью создания и редактирования каналов. 
 В рамках проекта освоил навыки работы с React, React Hooks, React Bootstrap, Redux, Redux-Toolkit, React Router, авторизацей и аутентификацией (JSON web tokens), работой с Websocket (Socket.IO), работой с формами, валидацией данных (Formik, Yup), организацией текстов приложения (i18next), фильтрацией текстов (Leo-Profanity), всплывающими уведомлениями (React-Toastify), деплоем (PaaS), мониторингом ошибок в продакшене (Rollbar).
